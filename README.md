@@ -14,13 +14,13 @@ de l'algorithme tsne aux features fréquentielles
 	en fonction du nombre de recommandations, comparaison de la régression logistique et du réseau de neurones une couche
 	dépendance en nombre de données d'entrainement
   
-			- un notebook d'apprentissage tentant d'implémenter une fonction de comparaison améliorée appliquée
+- un notebook d'apprentissage tentant d'implémenter une fonction de comparaison améliorée appliquée
 			  à l'apprentissage supervisé et non supervisé
         
-			- un notebook d'apprentissage semi-supervisé implémentant deux méthodes se basant toutes deux sur une
+- un notebook d'apprentissage semi-supervisé implémentant deux méthodes se basant toutes deux sur une
 			  NMF : NMF + classification et NMF > création d'une matrice topic/tag. détermination des hyperparamètres
         
-			- un second notebook d'apprentissage semi-supervisé implémentant le même travail mais via une LDA
+- un second notebook d'apprentissage semi-supervisé implémentant le même travail mais via une LDA
       
 lire le rapport (.pdf) pour plus d'informations.
 
